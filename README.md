@@ -1,6 +1,3 @@
-Here’s a README for your project:
-
----
 
 # Webscraper with LLM
 
